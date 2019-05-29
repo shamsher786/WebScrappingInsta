@@ -9,7 +9,7 @@ import shutil
 import requests
 
 class App:
-	def __init__(self, username='8376095003',password='9717157932',target_username='shamsheralikhan786',
+	def __init__(self, username='8376095003',password=' ',target_username='shamsheralikhan786',
 	path='D:\Wbscrapping_InstaAccount\pictures'):
 
 		#print(os.path.exists(path)) # check whether path exists or not
